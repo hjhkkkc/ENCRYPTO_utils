@@ -1,0 +1,5 @@
+[submodule "extern/MIRACL"]
+	path = extern/MIRACL
+	url = https://github.com/encryptogroup/MIRACL.git
+	branch = feature-cmake
+	ignore = dirty
